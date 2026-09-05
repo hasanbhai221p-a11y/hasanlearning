@@ -8,7 +8,6 @@ void main() {
   } else {
     print('num1 is greater than num2');
   }
-  print('hasan ustaad no1 in the world');
+  print('hasan ustaad no1 in the world and king');
+  print("hasan");
 }
-
-void main2() {}
